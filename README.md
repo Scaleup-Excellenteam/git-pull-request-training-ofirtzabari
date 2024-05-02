@@ -1,1 +1,1 @@
-this is text of branch1
+this is the text of branch2
